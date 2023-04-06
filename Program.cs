@@ -14,7 +14,7 @@ namespace Minimarkets
         {
             Program pr = new Program();
             while (true)
-            {
+            { 
                 try
                 {
                     Console.WriteLine("Koneksi ke Database\n");
